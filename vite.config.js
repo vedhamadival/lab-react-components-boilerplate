@@ -8,6 +8,6 @@ export default defineConfig(() => {
     },
     plugins: [react()],
     assetsInclude: ["**/*.jpg", "**/*.JPG"],
-    base:'/<Repo-name>'
+    base:'/lab-react-components-boilerplate'
   };
 });
